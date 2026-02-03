@@ -1,4 +1,4 @@
-**Tools:** ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white).
+**Tools:** ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 # Excel Dashboard: Sales Analysis Project
 
