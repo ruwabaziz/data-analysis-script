@@ -1,3 +1,5 @@
+**Tools:** ![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white).
+
 # Excel Dashboard: Sales Analysis Project
 
 This project is a dynamic Excel dashboard designed for visualizing and analyzing sales data using Pivot Tables, Slicers, and Interactive Charts.
@@ -32,6 +34,6 @@ This project is a dynamic Excel dashboard designed for visualizing and analyzing
 ---
 
 ## 👤 Author
-Made by **[Ruwab Aziz]**
+Made by **Ruwab Aziz**
 
-📌 [www.linkedin.com/in/ruwabaziz]
+📌 Linkedin - www.linkedin.com/in/ruwabaziz
